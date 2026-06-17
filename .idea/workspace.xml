@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3319e17-4ca0-4ea0-9f2d-8f5d25926410" name="Changes" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+    <list default="true" id="b3319e17-4ca0-4ea0-9f2d-8f5d25926410" name="Changes" comment="add init">
+      <change afterPath="$PROJECT_DIR$/src/components/sections/AboutSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sections/HeroSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sections/ProjectsSection.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "j.shamekhi/feature/navbar-footer",
+    "git-widget-placeholder": "j.shamekhi/feature/body-page",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "node.js.detected.package.eslint": "true",
@@ -74,11 +75,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Coding\Project\user-portfolio\src" />
-    </key>
-  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -110,7 +106,7 @@
       <updated>1781704391150</updated>
       <workItem from="1781704392804" duration="765000" />
       <workItem from="1781705234571" duration="17000" />
-      <workItem from="1781705285396" duration="1048000" />
+      <workItem from="1781705285396" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -128,23 +124,7 @@
       <option name="project" value="LOCAL" />
       <updated>1781705316418</updated>
     </task>
-    <task id="LOCAL-00003" summary="edit globals">
-      <option name="closed" value="true" />
-      <created>1781705608940</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1781705608945</updated>
-    </task>
-    <task id="LOCAL-00004" summary="workspace">
-      <option name="closed" value="true" />
-      <created>1781705642342</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1781705642342</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,8 +133,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <MESSAGE value="add init" />
-    <MESSAGE value="edit globals" />
-    <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="add init" />
   </component>
 </project>
